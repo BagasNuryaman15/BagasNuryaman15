@@ -5,7 +5,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="margin-right: 10px;"/>
   <span style="font-size: 1.2em; vertical-align: middle" ; ><b>ʜᴏʟᴀ, ɪ'ᴍ ʙᴀɢᴀꜱ ɴᴜʀʏᴀᴍᴀɴ</b></span>
 </p>
-<br>
+<br/>
 
 <!--About Me Section-->
 Currently wrapping up my Management degree at Universitas Islam Bandung, I'm all about diving deep into the worlds of business and economics.
