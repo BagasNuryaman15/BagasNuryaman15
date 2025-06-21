@@ -2,13 +2,10 @@
 ![My Github Profile](img/My_Github_Profile.png)
 
 <!--Header Section-->
-<p>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
-  <b>ʜᴏʟᴀ, ɪ'ᴍ ʙᴀɢᴀꜱ ɴᴜʀʏᴀᴍᴀɴ</b>
-</p>
+| <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> | **ʜᴏʟᴀ, ɪ'ᴍ ʙᴀɢᴀꜱ ɴᴜʀʏᴀᴍᴀɴ** |
+|:---:|:---|
 
 <br />
-
 <!--About Me Section-->
 Currently wrapping up my Management degree at Universitas Islam Bandung, I'm all about diving deep into the worlds of business and economics.
 
