@@ -1,5 +1,5 @@
 <!--My Banner Profile-->
-![My Github Profile](img/My_Github_Profile.png)
+![My Github Profile](img/My_Github_Profile2.png)
 
 <!--Header Section-->
 <p>
@@ -11,8 +11,14 @@
 ---
 
 <!--About Me-->
-<div style="text-align: justify;">
-Currently wrapping up my Management degree at Universitas Islam Bandung, I'm all about diving deep into the worlds of business and economics.
-<br /><br>
-But here's the fun part outside of my major, I'm a huge tech enthusiast! After getting hooked on cryptocurrency (and the magic of Blockchain behind it) and Artificial Intelligence, I took a leap of faith. I joined a Machine Learning Engineering bootcamp at Dicoding Indonesia and an AI-Engineering bootcamp at Purwadhika.
-</div>
+<!--About Me-->
+**Digital Craftsman (Management Student / AI Engineering Enthusiast)**
+
+I am a Management Student and AI Engineering Enthusiast with a huge love for Python, Machine Learning, Blockchain, and Business Innovation.
+
+- ✨ **Fortis Fortuna Adiuvat**  
+- 🌱 **Currently learning:** Machine Learning, Deep Learning, Computer Vision, NLP, MLOps and Blockchain technology  
+- 📚 **Bootcamp Graduate:** Dicoding Indonesia & Purwadhika  
+- 🚀 **Goal:** Building tech solutions for agriculture and real world problems  
+- 💼 **Background:** Management at Universitas Islam Bandung  
+- 🔗 **Interests:** Cryptocurrency, AI, and Business Strategy
