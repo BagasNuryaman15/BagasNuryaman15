@@ -1,10 +1,10 @@
 <!--My Banner Profile-->
-![My Github Profile](img/My_Github_Profile2.png)
+![My Github Profile](img/My_Github_Profile.png)
 
 <!--Header Section-->
 <p>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-<strong>ʜᴏʟᴀ, ɪ'ᴍ ʙᴀɢᴀꜱ ɴᴜʀʏᴀᴍᴀɴ</strong>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50" style="vertical-align: middle; margin-right: 15px;"/>
+<strong style="font-size: 1.5em; vertical-align: middle;">ʜᴏʟᴀ, ɪ'ᴍ ʙᴀɢᴀꜱ ɴᴜʀʏᴀᴍᴀɴ</strong>
 </p>
 
 
